@@ -1,0 +1,15 @@
+# Local secrets and generated files
+.env
+.env.local
+*.tfstate
+*.tfstate.*
+.terraform/
+kubeconfig
+*.pem
+*.key
+*.p12
+*.pfx
+token.txt
+report.html
+sbom.spdx.json
+trivy*.json

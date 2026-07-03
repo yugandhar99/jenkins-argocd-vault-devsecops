@@ -1,4 +1,4 @@
-# Jenkin s CI/CD with ArgoCD, Vault, SonarQube and Trivy
+# Jenkins CI/CD with ArgoCD, Vault, SonarQube and Trivy
 
 > **Stage 11 of 12 — Career Progression Project**  
 > Portfolio project by **Yugandhar Ethamukkala**.

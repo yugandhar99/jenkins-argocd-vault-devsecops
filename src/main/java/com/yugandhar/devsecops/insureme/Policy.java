@@ -1,4 +1,4 @@
-pack age com.yugandhar.devsecops.insureme;
+package com.yugandhar.devsecops.insureme;
 
 import javax.annotation.Generated;
 import javax.persistence.Entity;

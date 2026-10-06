@@ -1,4 +1,4 @@
-package com.yugandhar.devsecops.insureme; 
+package com.yugandhar.devsecops.insureme;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
